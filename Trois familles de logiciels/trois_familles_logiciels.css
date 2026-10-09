@@ -1,0 +1,56 @@
+.header {
+	text-align: center;
+	font-family: verdana;
+}
+
+.banniere {
+   	width:100vw;
+   	height: 2vh;
+}
+
+.introduction {
+	font-family: verdana;
+	display: flex; 
+	justify-content: center;
+	width: 400px; 
+	margin: 0 auto; 
+	text-align: center; 
+	padding: 40px;
+}
+
+.navtable {
+	font-family: verdana;
+	font-size: 12px;
+	display: flex; 
+	justify-content: center; 
+	padding: 25px;
+}
+
+.navigation {
+	background-color: lightpink; 
+	border-width: 3px; 
+	border-color: red; 
+	border-style: solid; 
+	text-align: center;
+}
+
+.SE {
+	font-family: verdana;
+	display: flex; 
+	justify-content: center;
+	width: 850px; 
+	margin: 0 auto; 
+	text-align: left; 
+	padding: 40px;
+}
+
+.SEheader {
+	font-family: verdana;
+	font-weight: bold;
+	display: flex; 
+	justify-content: left;
+	width: 850px; 
+	margin: 0 auto; 
+	text-align: left; 
+	padding: 10px;
+}
