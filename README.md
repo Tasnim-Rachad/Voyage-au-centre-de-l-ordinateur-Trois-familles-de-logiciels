@@ -3,3 +3,6 @@
 Ceci est la suite du fameux "Tour de l'unité centrale en 8 pages !"
 
 Ici, nous explorons plus profondément le fonctionnement de l'unité centrale en découvrant le monde fascinant et complexe des trois familles de logiciels. Bonne aventure!
+
+Veuillez passer à travers ce portail :
+https://tasnim-rachad.github.io/Voyage-au-centre-de-l-ordinateur-Trois-familles-de-logiciels/Trois%20familles%20de%20logiciels/acceuil.html
