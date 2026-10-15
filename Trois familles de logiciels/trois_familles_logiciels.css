@@ -210,3 +210,42 @@ footer {
     background-color: rgba(255, 255, 255, 0.83);
     background-blend-mode: lighten;
 }
+
+.reference {
+	width: 70vw;
+  margin: 20px auto;
+  padding: 20px;
+  box-sizing: border-box;
+  font-family: verdana;
+  font-size: 14px;
+  line-height: 2;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.reference h2 {
+	width: auto;
+  margin: 0 auto 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.reference p {
+  margin: 0 0 20px;
+  padding-left: 1.27cm;
+  text-indent: -1.27cm;
+  overflow-wrap: anywhere;
+}
+
+.reference a {
+  color: #0645AD;
+  overflow-wrap: anywhere;
+}
+
+.retour table{
+	background-color: white;
+	margin: auto;
+}
+
+.retour td {
+	text-align: center;
+}
